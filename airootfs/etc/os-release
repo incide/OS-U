@@ -1,0 +1,10 @@
+NAME="OS-U"
+PRETTY_NAME="OS-U"
+ID=os-u
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;255;105;180"
+HOME_URL="https://archlinux.org/"
+SUPPORT_URL="https://aur.archlinux.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+LOGO=oszu.png
